@@ -111,8 +111,10 @@ class client:
         users = client.getOnlineUsers()
         for i in users:
             if users[i]["username"] == user:
-                n_url = client.fixUrlLocation(jd["Banned user database"],i)
-                requests.delete(url = n_url)
+                n_url = client.fixUrlLocation(jd["Users database"],i)
+                print(n_url)
+                requests.delete(url = n_url) # if you want this to work change n_url to the actual location of the users "address/users/{i}.json"
+                print(12312312)
     
     def banUser(username,reason,until):
         url = jd["Banned users database"]
