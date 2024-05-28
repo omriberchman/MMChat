@@ -1,7 +1,7 @@
 {
-    "WS address" : "ws://192.168.0.67:8765", 
-    "Users database" : "https://game-test-a9c14-default-rtdb.europe-west1.firebasedatabase.app/users.json",
-    "Online users database" : "https://game-test-a9c14-default-rtdb.europe-west1.firebasedatabase.app/online.json",
-    "Banned users database" : "https://game-test-a9c14-default-rtdb.europe-west1.firebasedatabase.app/banned.json",
-    "Messages database" : "https://mmlab-chat-30f10-default-rtdb.europe-west1.firebasedatabase.app/messages.json"
+    "WS address" : "ws://ADDRESS:PORT", 
+    "Users database" : "https://ADDRESS/DB.json",
+    "Online users database" : "https://ADDRESS/DB.json",
+    "Banned users database" : "https://ADDRESS/DB.json",
+    "Messages database" : "https://ADDRESS/DB.json"
   }
