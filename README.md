@@ -26,7 +26,7 @@ A beautiful and advanced python chat application based on websockets with flet (
 
 
 ## Issues (and fixes):
-I am kind of fed up with this project at the moment and there are some stuff that needs fixing but I don't have the time to deal with.    
+I am kind of fed up with this project at the moment and there are some broken thing but I don't have the time to deal with it now.    
 
 · For some reason it only works on python 3.10.    
 · The program fails to set the statues to offline unless follow the instructions in the comment under setStatusOffline function.    
