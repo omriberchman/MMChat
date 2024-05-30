@@ -1,18 +1,18 @@
 # MMChat
-A beautiful and advanced python chat application based on websockets with flet (flutter implemantaion in python) for great GUI. 🔥🔥    
+A beautiful and advanced python chat application based on websockets with flet (flutter implemantaion in python) for a great GUI. 🔥🔥    
+
+## Features:
+· Sending and receiving messages from multiple devices and networks at the same time 📨    
+· Admins can delete messages, ban/unban users 🚓    
+· Login page 🙋‍♂️     
+· Account creation page 👋   
+· Profile pictures (incl. animated and SVGs) 🥸    
+· Level colors and icon (can be edited in lines 173 for colors and 338 for icons) 🟡🔴🟢 ~ 👑
 
 ## How to use:
 1. Download the file in /src
 2. Update the content of /src/information.json with your information (urls)
 3. That's it :)
-
-## Features:
-· Sending and receiving messages from multiple devices and networks at the same time    
-· Admins can delete messages, ban/unban users    
-· Login page     
-· Signup page    
-· Profile pictures (incl. animated and SVGs)    
-· Level colors and icon (can be edited in lines 173 for colors and 338 for icons)    
 
 ## Screenshots:
 #### Chat page:
